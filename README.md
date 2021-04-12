@@ -1,6 +1,6 @@
 # f_worldtime
 
-Get the Real Time of the location of your desire from the list given. 
+Get the Real Time of the location of your desire from the list given . 
 
 
 
